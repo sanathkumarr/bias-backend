@@ -1,7 +1,7 @@
-Flask==2.0.3
+Flask==2.1.0
+Werkzeug==2.0.3
 requests==2.27.1
 beautifulsoup4==4.10.0
 gunicorn
-logging
 pytest
 render-python
